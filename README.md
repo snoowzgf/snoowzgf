@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Snoowz
 - 👀 I’m interested in developping in JS, python and C# and in the game Design.
 - 🌱 I’m currently learning C++
-- 📫 How to reach me on discord, ntrmglpt
+- 📫 How to reach me on discord, ntgrmlpt
 
 ---
 
